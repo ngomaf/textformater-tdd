@@ -1,7 +1,5 @@
 # Text formater - TDD
 
-# PRD: Formatador de Frases em PHP (Projeto para Testes Unitários)
-
 ## 1. Visão Geral
 Desenvolver uma biblioteca PHP para formatação de frases com diferentes regras de formatação, destinada ao aprendizado e prática de testes unitários com PHPUnit.
 
